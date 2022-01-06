@@ -1,4 +1,4 @@
-# Magic Mirror Calendaer Ext2 configuration for Family Calendar
+# Magic Mirror Calendar Ext2 configuration for Family Calendar
 
 We're a busy family and it was hard to keep everything straight.  Our calendars change and updtae often, but luckily almost every source has a public feed.  
 
