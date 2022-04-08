@@ -1,8 +1,8 @@
 # Magic Mirror Calendar Ext2 configuration for Family Calendar
 
-We're a busy family and it was hard to keep everything straight.  Our calendars change and updtae often, but luckily almost every source has a public feed.  
+We're a busy family and it was hard to keep everything straight.  Our calendars change and update often, luckily almost every source has a public ics feed.  
 
-We used magic mirror to create a self updating calendar that everyone could look at in the morning to know what was ging on for the day week or month.  Everyone has thier own color or pattern, our youngest loves rainsbows, so I made that happen for her.
+We used magic mirror to create a self updating calendar that everyone could look at in the morning to know what was ging on for the day week or month.  Everyone has thier own color or pattern, our youngest loves rainbows, so I made that happen for her.
 
 Our sample custom.css and config.js is in the repo here, use and adapt as you see fit.
 
